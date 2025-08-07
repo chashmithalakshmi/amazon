@@ -1,1 +1,1 @@
-# amazon
+print("hello world")
